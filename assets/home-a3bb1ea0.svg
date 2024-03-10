@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="Sahayya_Home_Icon" data-name="Sahayya Home Icon" transform="translate(1 1)">
+    <g id="Group_21468" data-name="Group 21468">
+      <g id="Rectangle_5759" data-name="Rectangle 5759" fill="#fff" stroke="#fff" stroke-width="1" opacity="0">
+        <rect width="24" height="24" rx="4" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="25" height="25" rx="4.5" fill="none"/>
+      </g>
+      <path id="Path_16006" data-name="Path 16006" d="M2.25,8.809,8.219,2.932a.759.759,0,0,1,1.061,0l5.97,5.877M3.75,7.332v6.645a.745.745,0,0,0,.75.738H7.25v-3.2A.745.745,0,0,1,8,10.778H9.5a.745.745,0,0,1,.75.738v3.2H13a.745.745,0,0,0,.75-.738V7.332m-7.5,7.383h5.5" transform="translate(3.249 3.284)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

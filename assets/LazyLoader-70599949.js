@@ -1,0 +1,2 @@
+import{r as s,j as l}from"./index-e8217573.js";const L=c=>{const{children:i,onLazyLoad:e}=c,r=s.useRef(null),[n,a]=s.useState(!1),[o,f]=s.useState(!1);return s.useEffect(()=>{const t=new IntersectionObserver(([u])=>{u.isIntersecting&&(a(!0),t.disconnect())},{threshold:.25});return r.current&&t.observe(r.current),()=>{r.current&&t.unobserve(r.current)}},[]),s.useEffect(()=>{n&&!o&&(Array.isArray(e)?e.forEach(t=>t()):typeof e=="function"&&e(),f(!0))},[n,e,o]),l.jsx("div",{ref:r,children:n?i:null})};export{L};
+//# sourceMappingURL=LazyLoader-70599949.js.map

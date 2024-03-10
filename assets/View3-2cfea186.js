@@ -1,0 +1,2 @@
+import{R as r,j as i}from"./index-e8217573.js";import{M as s,i as a}from"./MediaGallery-5884b284.js";import"./Download_Icon-51fc7f46.js";import"./Dialog-adadaf64.js";import"./index-8739acfd.js";import"./Skeleton-7e12d019.js";import"./FileUploadService-1aaf11f7.js";const x=()=>{const[t,o]=r.useState(!1),e=()=>{o(!t)};return i.jsxs(i.Fragment,{children:[i.jsx("button",{onClick:e,children:"Toggle"}),i.jsx(s,{visible:t,list:[],onToggleVisibility:e,currentSection:{...a}})]})};export{x as default};
+//# sourceMappingURL=View3-2cfea186.js.map

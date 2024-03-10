@@ -1,0 +1,1 @@
+{"version":3,"file":"PageReport-5560bc16.js","sources":["../../src/views/transaction/PageReport/PageReport.tsx"],"sourcesContent":["import React from \"react\";\n\nconst PageReport = () => {\n  return <div>PageReport</div>;\n};\n\nexport default PageReport;\n"],"names":["PageReport","jsx"],"mappings":"wCAEA,MAAMA,EAAa,IACVC,EAAA,IAAC,OAAI,SAAU,YAAA,CAAA"}

@@ -1,0 +1,2 @@
+var n=Object.defineProperty;var u=(s,t,e)=>t in s?n(s,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):s[t]=e;var a=(s,t,e)=>(u(s,typeof t!="symbol"?t+"":t,e),e);import{at as h}from"./index-e8217573.js";const i="/custom/api/loan";class l extends h{constructor(){super(...arguments);a(this,"getAll",(e=0,r=10,o="")=>{const c=`${i}/search?start=${e}&limit=${r}${o}`;return this.makeGetRequestWithAuth(c)});a(this,"save",e=>{const r=`${i}`;return this.makePostRequestWithAuth(r,e)})}}const v=new l;export{v as L};
+//# sourceMappingURL=LoanService-d10912e0.js.map

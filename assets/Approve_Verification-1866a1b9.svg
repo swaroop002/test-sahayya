@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <filter id="Ellipse_1274" x="0" y="0" width="54" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#353e57" flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Approve_-_Contained_Button" data-name="Approve - Contained Button" transform="translate(1 1)">
+    <g transform="matrix(1, 0, 0, 1, -1, -1)" filter="url(#Ellipse_1274)">
+      <g id="Ellipse_1274-2" data-name="Ellipse 1274" transform="translate(1 1)" fill="#3b41e3" stroke="#3b41e3" stroke-width="1.5">
+        <circle cx="24" cy="24" r="24" stroke="none"/>
+        <circle cx="24" cy="24" r="23.25" fill="none"/>
+      </g>
+    </g>
+    <path id="Path_17245" data-name="Path 17245" d="M12.84,26.608,19,33.779,32.756,21.986" transform="translate(2 -3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

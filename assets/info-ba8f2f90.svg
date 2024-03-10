@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.147" height="12.147" viewBox="0 0 12.147 12.147">
+  <g id="Info" transform="translate(0.5 0.5)">
+    <g id="Info-Square">
+      <path id="Stroke-1" d="M8.935.75H3.712A2.871,2.871,0,0,0,.75,3.863V8.784A2.869,2.869,0,0,0,3.712,11.9H8.934A2.869,2.869,0,0,0,11.9,8.784V3.863A2.869,2.869,0,0,0,8.935.75Z" transform="translate(-0.75 -0.75)" fill="none" stroke="#405986" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+      <line id="Stroke-3" y1="2.41" transform="translate(5.57 5.573)" fill="none" stroke="#405986" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Stroke-2" x2="0.006" transform="translate(5.567 3.286)" fill="none" stroke="#405986" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

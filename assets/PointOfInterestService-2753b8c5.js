@@ -1,0 +1,2 @@
+var n=Object.defineProperty;var o=(s,e,t)=>e in s?n(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var i=(s,e,t)=>(o(s,typeof e!="symbol"?e+"":e,t),t);import{at as c}from"./index-e8217573.js";const a="/custom/api/point/interest";class m extends c{constructor(){super(...arguments);i(this,"getAll",t=>{const r=`${a}/key/metrics/${t}`;return this.makeGetRequestWithAuth(r)})}}const A=new m;export{A as P};
+//# sourceMappingURL=PointOfInterestService-2753b8c5.js.map

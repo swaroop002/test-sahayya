@@ -1,0 +1,2 @@
+import{R as s,j as t,bM as u,o as d}from"./index-e8217573.js";const x=r=>{var n;const{content:a,htmlContent:o,variant:i,...e}=r,{target:m,position:l,className:p}=e,c=i===((n=d)==null?void 0:n.PRIMARY)?" tooltip-primary ":"",T=()=>o?t.jsx("div",{dangerouslySetInnerHTML:{__html:o}}):a;return t.jsx(s.Fragment,{children:t.jsx(u,{...e,target:m,position:l,className:` !p-0 ${c??""} ${p??""}  `??"",autoHide:!1,children:T()})})},h=s.memo(x);export{h as S};
+//# sourceMappingURL=SimpleToolTip-3cfbb0c5.js.map
